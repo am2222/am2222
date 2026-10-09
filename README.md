@@ -4,7 +4,6 @@
 
 <p>
 <a href="https://github.com/am2222/webDggrid"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/webDggrid-dark.svg"><img src="cards/webDggrid-light.svg" alt="webDggrid" width="49%"></picture></a> <a href="https://github.com/am2222/duckdb-dggs"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/duckdb-dggs-dark.svg"><img src="cards/duckdb-dggs-light.svg" alt="duckdb-dggs" width="49%"></picture></a>
-<a href="https://github.com/am2222/pydggrid"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/pydggrid-dark.svg"><img src="cards/pydggrid-light.svg" alt="pydggrid" width="49%"></picture></a>
 </p>
 
 ### DuckDB extensions
@@ -24,5 +23,5 @@
 
 <p>
 <a href="https://github.com/am2222/DSTree"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/DSTree-dark.svg"><img src="cards/DSTree-light.svg" alt="DSTree" width="49%"></picture></a> <a href="https://github.com/am2222/AGILECA"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/AGILECA-dark.svg"><img src="cards/AGILECA-light.svg" alt="AGILECA" width="49%"></picture></a>
-<a href="https://github.com/am2222/dygeoprivacyp2p"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dygeoprivacyp2p-dark.svg"><img src="cards/dygeoprivacyp2p-light.svg" alt="dygeoprivacyp2p" width="49%"></picture></a>
+<a href="https://github.com/am2222/dygeoprivacyp2p"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dygeoprivacyp2p-dark.svg"><img src="cards/dygeoprivacyp2p-light.svg" alt="dygeoprivacyp2p" width="49%"></picture></a> <a href="https://github.com/am2222/pydggrid"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/pydggrid-dark.svg"><img src="cards/pydggrid-light.svg" alt="pydggrid" width="49%"></picture></a>
 </p>
