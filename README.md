@@ -3,25 +3,31 @@
 ### Discrete Global Grid Systems
 
 <p>
-<a href="https://github.com/am2222/webDggrid"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/webDggrid-dark.svg"><img src="cards/webDggrid-light.svg" alt="webDggrid" width="49%"></picture></a> <a href="https://github.com/am2222/duckdb-dggs"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/duckdb-dggs-dark.svg"><img src="cards/duckdb-dggs-light.svg" alt="duckdb-dggs" width="49%"></picture></a>
+<a href="https://github.com/am2222/webDggrid"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/webDggrid-dark.svg"><img src="cards/webDggrid-light.svg" alt="webDggrid" width="400"></picture></a>
+<a href="https://github.com/am2222/duckdb-dggs"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/duckdb-dggs-dark.svg"><img src="cards/duckdb-dggs-light.svg" alt="duckdb-dggs" width="400"></picture></a>
 </p>
 
 ### DuckDB extensions
 
 <p>
-<a href="https://github.com/am2222/duck_geoarrow"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/duck_geoarrow-dark.svg"><img src="cards/duck_geoarrow-light.svg" alt="duck_geoarrow" width="49%"></picture></a> <a href="https://github.com/am2222/duckrouting"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/duckrouting-dark.svg"><img src="cards/duckrouting-light.svg" alt="duckrouting" width="49%"></picture></a>
+<a href="https://github.com/am2222/duck_geoarrow"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/duck_geoarrow-dark.svg"><img src="cards/duck_geoarrow-light.svg" alt="duck_geoarrow" width="400"></picture></a>
+<a href="https://github.com/am2222/duckrouting"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/duckrouting-dark.svg"><img src="cards/duckrouting-light.svg" alt="duckrouting" width="400"></picture></a>
 </p>
 
 ### Web mapping & geo backends
 
 <p>
-<a href="https://github.com/am2222/mapbox-pmtiles"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mapbox-pmtiles-dark.svg"><img src="cards/mapbox-pmtiles-light.svg" alt="mapbox-pmtiles" width="49%"></picture></a> <a href="https://github.com/am2222/maplibre-landmarks"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/maplibre-landmarks-dark.svg"><img src="cards/maplibre-landmarks-light.svg" alt="maplibre-landmarks" width="49%"></picture></a>
-<a href="https://github.com/am2222/express-ogc-api"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/express-ogc-api-dark.svg"><img src="cards/express-ogc-api-light.svg" alt="express-ogc-api" width="49%"></picture></a> <a href="https://github.com/am2222/strapi-plugin-postgis"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/strapi-plugin-postgis-dark.svg"><img src="cards/strapi-plugin-postgis-light.svg" alt="strapi-plugin-postgis" width="49%"></picture></a>
+<a href="https://github.com/am2222/mapbox-pmtiles"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mapbox-pmtiles-dark.svg"><img src="cards/mapbox-pmtiles-light.svg" alt="mapbox-pmtiles" width="400"></picture></a>
+<a href="https://github.com/am2222/maplibre-landmarks"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/maplibre-landmarks-dark.svg"><img src="cards/maplibre-landmarks-light.svg" alt="maplibre-landmarks" width="400"></picture></a>
+<a href="https://github.com/am2222/express-ogc-api"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/express-ogc-api-dark.svg"><img src="cards/express-ogc-api-light.svg" alt="express-ogc-api" width="400"></picture></a>
+<a href="https://github.com/am2222/strapi-plugin-postgis"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/strapi-plugin-postgis-dark.svg"><img src="cards/strapi-plugin-postgis-light.svg" alt="strapi-plugin-postgis" width="400"></picture></a>
 </p>
 
 ### Research
 
 <p>
-<a href="https://github.com/am2222/DSTree"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/DSTree-dark.svg"><img src="cards/DSTree-light.svg" alt="DSTree" width="49%"></picture></a> <a href="https://github.com/am2222/AGILECA"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/AGILECA-dark.svg"><img src="cards/AGILECA-light.svg" alt="AGILECA" width="49%"></picture></a>
-<a href="https://github.com/am2222/dygeoprivacyp2p"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dygeoprivacyp2p-dark.svg"><img src="cards/dygeoprivacyp2p-light.svg" alt="dygeoprivacyp2p" width="49%"></picture></a> <a href="https://github.com/am2222/pydggrid"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/pydggrid-dark.svg"><img src="cards/pydggrid-light.svg" alt="pydggrid" width="49%"></picture></a>
+<a href="https://github.com/am2222/DSTree"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/DSTree-dark.svg"><img src="cards/DSTree-light.svg" alt="DSTree" width="400"></picture></a>
+<a href="https://github.com/am2222/AGILECA"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/AGILECA-dark.svg"><img src="cards/AGILECA-light.svg" alt="AGILECA" width="400"></picture></a>
+<a href="https://github.com/am2222/dygeoprivacyp2p"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dygeoprivacyp2p-dark.svg"><img src="cards/dygeoprivacyp2p-light.svg" alt="dygeoprivacyp2p" width="400"></picture></a>
+<a href="https://github.com/am2222/pydggrid"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/pydggrid-dark.svg"><img src="cards/pydggrid-light.svg" alt="pydggrid" width="400"></picture></a>
 </p>
